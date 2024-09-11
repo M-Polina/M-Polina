@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- My name is Polina, I am 21 years old.
+- Fourth year [ITMO University](https://itmo.ru/) student
+- My major is Informational Systems and Technologies
+<div id="badges">
+  <a href="https://t.me/LavenderPolly">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=#0088CC" alt="Telegram"/>
+  </a>
+</div>
 <!--
 **M-Polina/M-Polina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
