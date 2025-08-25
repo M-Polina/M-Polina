@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Polina, I am 21 years old.
-- Fourth year [ITMO University](https://itmo.ru/) student
+- Graduate of [ITMO University](https://itmo.ru/)
 - My major is Informational Systems and Technologies
 <div id="badges">
   <a href="https://t.me/LavenderPolly">
